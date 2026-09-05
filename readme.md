@@ -77,14 +77,6 @@ If you use this work, please cite the published paper:
 
 ---
 
-## 🙏 Acknowledgements
-
-- **ODIR-5K** — Ocular Disease Intelligent Recognition Dataset
-- **RFMiD** — Retinal Fundus Multi-Disease Image Dataset
-- **APTOS 2019** — Asia Pacific Tele-Ophthalmology Society Blindness Detection Dataset
-
----
-
 ## 🤝 Connect
 
 Have questions, feedback, or ideas for collaboration? Feel free to reach out or open an issue on this repo!
